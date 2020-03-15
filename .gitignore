@@ -1,0 +1,6 @@
+venv/
+.idea/
+.vscode/
+*.plist
+*cache*/
+.DS_Store
